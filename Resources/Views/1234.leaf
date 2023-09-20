@@ -1,0 +1,24 @@
+//
+//  File.swift
+//  
+//
+//  Created by 张鹏 on 2023/3/1.
+//
+
+
+
+import Foundation
+
+<html>
+<head>
+    <meta property="al:ios:url" content="litb://product/1234" />
+    <meta property="al:ios:app_store_id" content="438474115" />
+    <meta property="al:ios:app_name" content="Lightinthebox" />
+    <meta property="al:android:url" content="litb://product/1234">
+    <meta property="al:android:package" content="com.lightinthebox.android">
+    <meta property="al:android:app_name" content="Lightinthebox">
+    <meta property="og:title" content="Lightinthebox" />
+    <meta property="og:type" content="website" />
+</head>
+    <body><p>我真帅!</p></body>
+</html>
